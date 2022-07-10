@@ -1,16 +1,12 @@
 # flutter_dapp_complete
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Create Flutter App
+2. Create contracts folder
+3. cd contracts truffle init
+4. Create new contract file and write the smart contract
+5. truffle compile
+6. Add Migration file for the contract you created
+7. Open Ganache
+8. Modify truffle_config.js and add proper port number 
+9. truffle migrate
+------- Contract Migrated ------
